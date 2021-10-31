@@ -1,0 +1,7 @@
+# Blockchain using Python
+
+A blockchain is a growing list of records, called blocks, that are linked together using cryptography.[1][2][3][4] Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data (generally represented as a Merkle tree). The timestamp proves that the transaction data existed when the block was published in order to get into its hash. As blocks each contain information about the block previous to it, they form a chain, with each additional block reinforcing the ones before it. Therefore, blockchains are resistant to modification of their data because once recorded, the data in any given block cannot be altered retroactively without altering all subsequent blocks.
+
+credit: https://en.wikipedia.org/wiki/Blockchain
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Bitcoin_Block_Data.svg#/media/Datei:Bitcoin_Block_Data.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bitcoin_Block_Data.svg/1200px-Bitcoin_Block_Data.svg.png" alt="Bitcoin Block Data.svg"></a><br>Von &lt;a href="//commons.wikimedia.org/wiki/User:Matth%C3%A4us_Wander" title="User:Matthäus Wander"&gt;Matthäus Wander&lt;/a&gt; - &lt;span class="int-own-work" lang="de"&gt;Eigenes Werk&lt;/span&gt;, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=26816920">Link</a></p>
